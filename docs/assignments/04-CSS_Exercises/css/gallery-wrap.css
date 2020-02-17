@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+#content-wrapper {
+    background-color: darkgrey;
+    width: 70%;
+    margin: 100px auto;
+}
+
+.entry {
+    width: 200px;
+    display: inline-block;
+    margin: 10px;
+}
+
+img {
+    width: 100%;
+}
